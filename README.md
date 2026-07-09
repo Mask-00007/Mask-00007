@@ -14,6 +14,12 @@ I'm Shubham Raj, a B.Tech CSE (Artificial Intelligence) student at IIMT College 
 ![](https://streak-stats.demolab.com/?user=Mask-00007&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mask-00007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mask-00007/Mask-00007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mask-00007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
