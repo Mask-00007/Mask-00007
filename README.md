@@ -24,12 +24,10 @@ I'm Shubham Raj, a B.Tech CSE (Artificial Intelligence) student at IIMT College 
 <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" title="Git"/> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" title="GitHub"/> <img src="https://skillicons.dev/icons?i=npm&theme=dark" height="45" title="NPM"/> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="45" title="Arduino"/>
 
 ### AI / ML & Data
-<img src="https://skillicons.dev/icons?i=py&theme=dark" height="45" title="Python"/> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" title="TensorFlow"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" title="Pandas"/> <img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black" title="Matplotlib"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" title="TensorFlow"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" title="Pandas"/> <img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black" title="Matplotlib"/>
 
 ### Design
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" title="Figma"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" title="Canva"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" title="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" title="Canva"/>
 
 </div>
 
