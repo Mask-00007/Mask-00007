@@ -4,9 +4,6 @@
 I'm Shubham Raj, a B.Tech CSE (Artificial Intelligence) student at IIMT College of Engineering, AKTU. <br>I work at the intersection of applied AI and full-stack development, with a focus on building systems that hold up in production — not just in a notebook.<br><br>I'm currently strengthening my full-stack skills with the MERN stack, building DSA fundamentals, and exploring how MLOps and modern AI tooling fit into production software.<br>I'm open to full-stack engineering and AI/ML engineering internship opportunities.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamraj-dev) 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -41,6 +38,15 @@ I'm Shubham Raj, a B.Tech CSE (Artificial Intelligence) student at IIMT College 
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-00007&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamraj-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Mask-00007)
+
 </div>
 
 
