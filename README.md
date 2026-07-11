@@ -50,11 +50,6 @@ I'm currently:
 
 </div>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mask-00007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
-
-</div>
 
 
 ## 📈 Contribution Activity
