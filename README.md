@@ -40,20 +40,20 @@ I'm Shubham Raj, a B.Tech CSE (Artificial Intelligence) student at IIMT College 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-00007&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 </div>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamraj-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Mask-00007)
-
-</div>
-
 
  ## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Mask-00007/Mask-00007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamraj-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mask-00007)
+
 </div>
 
 
