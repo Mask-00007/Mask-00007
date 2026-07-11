@@ -39,10 +39,23 @@ I'm currently:
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mask-00007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mask-00007&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mask-00007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.shion.dev/api?username=Mask-00007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=false" />
+<img height="170px" src="https://streak-stats.demolab.com/?user=Mask-00007&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<img height="170px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mask-00007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mask-00007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
+
+</div>
+
 
 ## 📈 Contribution Activity
 
