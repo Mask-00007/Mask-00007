@@ -58,8 +58,6 @@ I'm currently:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-00007&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 </div>
 
-### 3D Contribution Graph
-![3D contribution graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 
  ## 🐍 Contribution Snake
