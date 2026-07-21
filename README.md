@@ -54,7 +54,6 @@ I'm currently:
 
 <div align="center">
 
-<img width="49%" src="https://leetcard.jacoblin.cool/Mask007?ext=activity&colors=0D1117,0D1117,C9D1D9,A78BFA,A78BFA,8B5CF6,A78BFA,8B5CF6&font=baloo2" />
 <img width="49%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=tokyonight&hide_border=true&show=graph&card_width=480" />
 
 </div>
