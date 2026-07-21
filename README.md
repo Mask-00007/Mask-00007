@@ -53,12 +53,6 @@ I'm currently:
 ## 💻 LeetCode Stats
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Mask007?ext=activity&colors=0D1117,0D1117,C9D1D9,A78BFA,A78BFA,8B5CF6,A78BFA,8B5CF6&font=baloo2" />
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=tokyonight&show=graph" width="100%"/>
 </div>
 
