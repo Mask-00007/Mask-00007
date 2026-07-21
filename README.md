@@ -50,9 +50,7 @@ I'm currently:
 
 </div>
 
-## 💻 LeetCode Stats
-
-## <img src="https://cdn.simpleicons.org/leetcode/A78BFA" width="26" height="26" align="center"/> LeetCode Stats
+## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" align="center"/> LeetCode Stats
 
 <div align="center">
 
