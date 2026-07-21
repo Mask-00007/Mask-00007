@@ -54,7 +54,7 @@ I'm currently:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=tokyonight&hide_border=true&show=graph&card_width=480" />
+<img width="55%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=tokyonight&hide_border=true&show=graph&card_width=480" />
 
 </div>
 
