@@ -52,9 +52,11 @@ I'm currently:
 
 ## 💻 LeetCode Stats
 
+## <img src="https://cdn.simpleicons.org/leetcode/A78BFA" width="26" height="26" align="center"/> LeetCode Stats
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=tokyonight&hide_border=true&show=graph&card_width=480" />
+<img width="70%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=tokyonight&hide_border=true&show=graph,recent&card_width=560" />
 
 </div>
 
