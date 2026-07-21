@@ -50,13 +50,7 @@ I'm currently:
 
 </div>
 
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" align="center"/> LeetCode Stats
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=dark&hide_border=true&show=graph,recent&card_width=560" />
-
-</div>
+<img width="70%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=dark&hide_border=true&show=graph&card_width=560" />
 
 
 
