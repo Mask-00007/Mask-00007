@@ -2,16 +2,16 @@
 
 ## 💫 About Me
 
-I'm **Shubham Raj**, a B.Tech CSE (Artificial Intelligence) student at IIMT College of Engineering, AKTU, working at the intersection of **applied AI** and **full-stack development**.
+I'm **Shubham Raj**, a B.Tech CSE (Artificial Intelligence) student — working at the intersection of full-stack development and applied AI.
 
-My focus is on building systems that hold up in production — not just models that perform well in a notebook. That means thinking through architecture, deployment, and real-world constraints from the start, not treating them as an afterthought.
+My focus is on building systems that hold up in production, not just models that perform well in a notebook — which means treating architecture, deployment, and real-world constraints as first-class concerns, not afterthoughts.
 
-I'm currently:
-- Strengthening my full-stack skills with the **MERN stack**
-- Building strong **Data Structures & Algorithms** fundamentals
-- Exploring how **MLOps** and modern AI tooling fit into production software
+**Currently:**
+- 🔨 Strengthening full-stack fundamentals with the MERN stack
+- 🧮 Building a strong Data Structures & Algorithms foundation
+- 🤖 Exploring how MLOps and modern AI tooling fit into production software
 
-🎯 **Open to:** Full Stack Engineering and AI/ML Engineering internship opportunities
+**🎯 Open to:** Full-Stack Engineering and AI/ML Engineering internship opportunities
 
 
 ## 🛠️ Tech Stack
