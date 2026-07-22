@@ -50,19 +50,6 @@ My focus is on building systems that hold up in production, not just models that
 
 </div>
 
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" align="center"/> LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Mask007/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Mask007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-</a>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-leetcode-card.romitsagu.com/Mask007?theme=dark&hide_border=true&show=graph&card_width=560" />
-
-</div>
 
 
 ## 📈 Contribution Activity
