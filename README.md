@@ -33,8 +33,6 @@ My focus is on building systems that hold up in production, not just models that
 ### AI / ML & Data
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" title="TensorFlow"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" title="Pandas"/> <img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black" title="Matplotlib"/>
 
-### Design
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" title="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" title="Canva"/>
 
 </div>
 
