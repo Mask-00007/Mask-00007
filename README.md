@@ -49,6 +49,13 @@ My focus is on building systems that hold up in production, not just models that
 </div>
 
 
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mask007" />
+</p>
+
+
 
 ## 📈 Contribution Activity
 
