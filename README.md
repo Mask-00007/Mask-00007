@@ -40,12 +40,12 @@ My focus is on building systems that hold up in production, not just models that
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="165px" src="https://github-readme-stats.shion.dev/api?username=Mask-00007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=false" alt="GitHub Stats" />
+  <img height="165px" src="https://streak-stats.demolab.com/?user=Mask-00007&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+</div>
 
-<img height="170px" src="https://github-readme-stats.shion.dev/api?username=Mask-00007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=false" />
-<img height="170px" src="https://streak-stats.demolab.com/?user=Mask-00007&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<img height="170px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mask-00007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mask-00007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 
