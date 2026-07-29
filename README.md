@@ -41,7 +41,7 @@ My focus is on building systems that hold up in production, not just models that
 
 <div align="center">
   <img height="165px" src="https://github-readme-stats.shion.dev/api?username=Mask-00007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=false" alt="GitHub Stats" />
-<img height="165px" src="https://streak-stats.demolab.com/?user=Mask-00007&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&card_width=500" alt="GitHub Streak" />
+<img height="165px" src="https://github-readme-streak-stats-eight.vercel.app?user=Mask-00007&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
