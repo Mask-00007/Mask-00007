@@ -52,7 +52,7 @@ My focus is on building systems that hold up in production, not just models that
 
 ## Contribution Activity
 
-![contribution graph](./assets/activity-graph.svg)
+![contribution graph](./assets/activity-graph.svg) 
 
 
 
