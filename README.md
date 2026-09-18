@@ -50,11 +50,9 @@ My focus is on building systems that hold up in production, not just models that
 
 
 
-## 📈 Contribution Activity
+## Contribution Activity
 
-<div align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-00007&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-</div>
+![contribution graph](./assets/activity-graph.svg)
 
 
 
